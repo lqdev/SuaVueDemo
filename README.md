@@ -6,11 +6,11 @@ This repo contains an implementation of a Suave Server hosting a VueJS Applicati
 
 This application was built using a Mac. 
 
-- Mono
-- Node
-- Paket
-- Suave
-- VueJS
+- [Mono](https://www.mono-project.com/download/stable/#download-mac)
+- [Node](https://nodejs.org/en/download/)
+- [Paket](https://fsprojects.github.io/Paket/getting-started.html)
+- [Suave](https://suave.io/)
+- [VueJS](https://vuejs.org/v2/guide/)
 
 ## Server 
 
